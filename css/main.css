@@ -3,7 +3,7 @@ html {
 }
 
 th {
-  broder: 1px solid #ccc;
+  border: 1px solid #ccc;
 }
 
 td {
@@ -12,17 +12,17 @@ td {
 }
 
 table {
-border: 1px solid #ccc
-  }
+  border: 1px solid #ccc;
+}
 
-  .gray {
-    border: 1px solid #666;
-    border-radius: 6px;
-    background-color: #f2f2f2;
-    color: #333;
-  }
+.gray {
+  border: 1px solid #666;
+  border-radius: 6px;
+  background-color: #f2f2f2;
+  color: #333;
+}
 
-  .red {
+.red {
   border: 1px solid #b92828;
   border-radius: 6px;
   background-color: #f2bcbc;
